@@ -2,7 +2,15 @@
 <html>
 <body>
 
+<html lang="en-US">
+
+<p title="Greatest Team Ever">
+
 <a href="https://www.fcbarcelona.com/">This is a link</a>
+
+<img src="https://pbs.twimg.com/profile_images/899584358041956353/LpYAYxjB.jpg" alt="Fc Barcelona Logo" width="400" height="600">
+
+<p style="color:red">Hello World.</p>
 
 </body>
 </html>
