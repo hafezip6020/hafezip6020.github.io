@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p> Exercise 1 </p> 
+<!-- <p>This is a paragraph.</p> -->
+<p>This is a paragraph.</p>
+
+<p> Exercise 2 </p>
+
+<p>This is a paragraph.</p>
+<!-- Do not display this text in the browser -->
+<p>This is another paragraph</p>
+
+
+
+</body>
+</html>
