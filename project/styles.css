@@ -1,0 +1,56 @@
+.Heading-imag{
+  width:500px;
+  height:300px;
+}
+
+.Background-Image-1 {
+  background-image: url("http://cdn1.autoexpress.co.uk/sites/autoexpressuk/files/styles/article_main_image/public/2017/03/170014-test-barcelona-sebastian-vettel.jpg?itok=pL4GOcGA");
+  background-size: cover;
+}
+
+.Background-Image-2 {
+  background-image: url("https://www.formula1.com/content/fom-website/en/latest/features/2016/5/f1-first-race-1950-silverstone/_jcr_content/featureContent/manual_gallery/image1.img.1024.medium.jpg/1431505132317.jpg");
+  background-size: cover;
+}
+
+.image3 {max-width:100%}
+
+
+.backdrop{
+  background-color: #4f5b66;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.heading{
+  font-size: 36px;
+  text-align: center;
+}
+
+.column-2 {
+    float:left ;
+    padding: 10px;
+    width: 70%;
+}
+
+/* Left and right column */
+.column-2.side {
+    width: 30%;
+    float:right ;
+}
+
+
